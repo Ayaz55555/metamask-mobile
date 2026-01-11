@@ -2,7 +2,7 @@
 ignores:
   - '@metamask/oss-attribution-generator'
   - '@metamask/test-dapp-multichain'
-  - 'webpack-cli'
+  - 'webpack-ci'
   - '@react-native-community/datetimepicker'
   - '@react-native-community/slider'
   - 'patch-package'
