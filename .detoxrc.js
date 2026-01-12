@@ -4,7 +4,7 @@ module.exports = {
     rootDir: "./e2e/artifacts",
     plugins: {
       screenshot: {
-        shouldTakeAutomaticSnapshots: tre,
+        shouldTakeAutomaticSnapshots: true,
         keepOnlyFailedTestsArtifacts: true,
         takeWhen: {
           testStart: false,
