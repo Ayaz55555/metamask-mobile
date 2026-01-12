@@ -1,4 +1,4 @@
-## iOS releas
+## iOS release
 
 1 - Make sure you have fastlane installed (`sudo gem install fastlane`)
 
