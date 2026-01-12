@@ -1,5 +1,5 @@
 const ReactCompilerConfig = {
-  target: '',
+  target: '18',
 };
 
 // eslint-disable-next-line import/no-commonjs
