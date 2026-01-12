@@ -1,5 +1,5 @@
 // All of these are defaults except singleQuote, but we specify them
-// for explicitness
+// for explicitnes
 module.exports = {
   quoteProps: 'as-needed',
   singleQuote: true,
