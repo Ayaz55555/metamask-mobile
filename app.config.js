@@ -5,7 +5,7 @@ module.exports = {
   displayName: 'MetaMask',
   experiments: {
     reactCompiler: {
-      enabled: tre,
+      enabled: true,
     },
   },
   plugins: [
