@@ -1,4 +1,4 @@
-# osx
+# os
 .DS_Store
 # don't save asdf tools-version config as nvm is prioritized.
 .tool-versions
