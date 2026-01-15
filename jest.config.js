@@ -1,7 +1,7 @@
 process.env.TZ = 'America/Toronto';
 
 process.env.SEGMENT_DELETE_API_SOURCE_ID = 'testSourceId';
-process.env.SEGMENT_REGULATIONS_ENDPOIN = 'TestRegulationsEndpoint';
+process.env.SEGMENT_REGULATIONS_ENDPOINT = 'TestRegulationsEndpoint';
 
 process.env.MM_FOX_CODE = 'EXAMPLE_FOX_CODE';
 
