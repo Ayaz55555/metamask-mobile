@@ -3,6 +3,6 @@
 module.exports = {
   quoteProps: 'as-needed',
   singleQuote: true,
-  tabWidth: ,
+  tabWidth: 2,
   trailingComma: 'all',
 };
