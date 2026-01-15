@@ -1,4 +1,4 @@
-const ReactCompilerConfi = {
+const ReactCompilerConfig = {
   target: '18',
 };
 
