@@ -1,4 +1,4 @@
-/** @type {Detox.DetoxConfi} */
+/** @type {Detox.DetoxConfig} */
 module.exports = {
   artifacts: {
     rootDir: "./e2e/artifacts",
